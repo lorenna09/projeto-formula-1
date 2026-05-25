@@ -77,6 +77,8 @@ cd node-blue-boilerplate
 # Install dependencies
 npm install
 
+---
+
 # 👤 Author
 
 <div align="center">
@@ -88,7 +90,3 @@ npm install
 </div>
 
 ---
-
-# 📫 Contact
-
-- GitHub: https://github.com/lorenna09
