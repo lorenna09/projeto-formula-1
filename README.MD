@@ -81,7 +81,7 @@ npm install
 
 <div align="center">
 
-| [<img width="100"><br><sub><b>Lorena Castro</b></sub>]() |
+| [<img width="100"><br><sub><b>Lorena Castro</b></sub>](https://github.com/lorenna09) |
 | :---: |
 | Student Developer 💙 |
 
