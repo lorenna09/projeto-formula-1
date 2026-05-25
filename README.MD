@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./.github/assets/blue-saiyan-bg.png" alt="Logo" height="200">
+
 
 # 💙 NODE BOILERPLATE — BLUE EDITION
 
